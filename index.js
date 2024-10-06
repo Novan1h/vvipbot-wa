@@ -15,9 +15,9 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'VVIPINDO BOT'; 
-const instagram = 'agus_alnsyh71- kaelMk_'; 
-const aktif = 'Kapan bot aktif';
+const BotName = 'Pelayan Kamu'; 
+const instagram = 'There isn't any- kaelMk_'; 
+const aktif = 'sesuka Yang punya';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Agus\n' // Nama kamu
